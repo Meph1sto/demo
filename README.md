@@ -2,4 +2,4 @@
 
 Sample README file
 
-This causes trouble
+Something new
